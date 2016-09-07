@@ -1,0 +1,3 @@
+# Wifi MAC
+/persist/softmac                              u:object_r:wifi_data_file:s0
+

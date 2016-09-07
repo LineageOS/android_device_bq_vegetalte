@@ -1,0 +1,13 @@
+# Display
+ro.sf.lcd_density=320
+ro.opengles.version=196608
+
+# Perfd
+ro.min_freq_0=800000
+
+# Telephony
+persist.data.target=dpm1
+
+# OTA
+cm.updater.uri=https://ota1.randomdroids.com/api
+
