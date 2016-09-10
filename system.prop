@@ -7,7 +7,3 @@ ro.min_freq_0=800000
 
 # Telephony
 persist.data.target=dpm1
-
-# OTA
-cm.updater.uri=https://ota1.randomdroids.com/api
-
