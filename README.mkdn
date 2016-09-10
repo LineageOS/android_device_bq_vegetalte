@@ -1,0 +1,27 @@
+# android_device_bq_vegetalte
+Android device configuration for the bq Aquaris E5 4G/E5 S
+
+Device Tree for BQ Aquaris E5 4G / E5 S (vegetalte)
+===========================================
+
+The BQ Aquaris E5 4G / E5 S (codenamed _"vegetalte"_) is a mid-range smartphone from BQ.
+It was released in November 2014.
+
+
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Quad-core 1.2 GHz Cortex-A53
+Chipset | Qualcomm MSM8916 Snapdragon 410 / 412
+GPU     | Adreno 306
+Memory  | 1/2 GB RAM
+Shipped Android Version | 4..4
+Storage | 8 / 16GB
+MicroSD | Up to 32GB
+Battery | Non-removable Li-Po 2850 mAh battery
+Display | 1280x720 pixels, 5.0 inches (~294 ppi pixel density)
+Camera  | Primary: 13 MP, f/1.8, phase detection autofocus, dual flash led
+	| Secondary: 5 MP, f/2.2, 1080p
+
+Copyright 2016 - The CyanogenMod Project.
+
+![Aquaris E5 4G](https://it-bqcom15-media.s3.amazonaws.com/prod/images/310_310/d/a/4/b/da4b245d419f746385c172ecd5d613c1254d678a.jpg "BQ Aquaris E5 4G")
