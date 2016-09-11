@@ -1,6 +1,3 @@
-# android_device_bq_vegetalte
-Android device configuration for the bq Aquaris E5 4G/E5 S
-
 Device Tree for BQ Aquaris E5 4G / E5 S (vegetalte)
 ===========================================
 
