@@ -21,7 +21,7 @@ TARGET_BOARD_PLATFORM_GPU := qcom-adreno306
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/bq/msm8939
-TARGET_KERNEL_CONFIG := cyanogenmod_vegetalte_defconfig
+TARGET_KERNEL_CONFIG := vegetalte_defconfig
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := vegetalte,Aquaris_E5
