@@ -1,23 +1,23 @@
 # ADSP
-bin/adsprpcd
-vendor/lib/libadsprpc.so
-vendor/lib/libfastcvopt.so
+bin/adsprpcd|c5d13106f385dc6d74c5b772cf14e78aacd327a9
+vendor/lib/libadsprpc.so|ab0c697e6c2e7524df7cb6bade7cab625682f4a4
+vendor/lib/libfastcvopt.so|c3d0b4d99e6df3bb3eee631f155c7422871e141d
 
 # Audio ACBD
-etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Bluetooth_cal.acdb
-etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_General_cal.acdb
-etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Global_cal.acdb
-etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Handset_cal.acdb
-etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Hdmi_cal.acdb
-etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Headset_cal.acdb
-etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Speaker_cal.acdb
-etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb
-etc/acdbdata/QRD/QRD_General_cal.acdb
-etc/acdbdata/QRD/QRD_Global_cal.acdb
-etc/acdbdata/QRD/QRD_Handset_cal.acdb
-etc/acdbdata/QRD/QRD_Hdmi_cal.acdb
-etc/acdbdata/QRD/QRD_Headset_cal.acdb
-etc/acdbdata/QRD/QRD_Speaker_cal.acdb
+etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Bluetooth_cal.acdb|b4a100b8afd7b2d6e5a8dda00793a9e9797f7340
+etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_General_cal.acdb|5d95fc330d9add5bce30bb71381215b681cd9e8c
+etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Global_cal.acdb|f0f8e69f1f970ae5130a261c14b26d9f248d7ce2
+etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Handset_cal.acdb|33fde5246abdbf3f66f07b04f2cd11a2a15e3427
+etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Hdmi_cal.acdb|0150813fe241ccb9f8e790367f851de14c908691
+etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Headset_cal.acdb|751baff81a95054b76151db6cf9342831ad041e3
+etc/acdbdata/QRD/msm8939-snd-card-skul/QRD_SKUL_Speaker_cal.acdb|4c3e3db47c06d1553881c49229e01dfd61ec79c1
+etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb|a70c2e328d8806ce82ebd7773fc492e45f2f8440
+etc/acdbdata/QRD/QRD_General_cal.acdb|a73698a3e8a4b60c507838bb6818f89bb483547b
+etc/acdbdata/QRD/QRD_Global_cal.acdb|878e5f89f5ab5801bc9a337cd30fce37c3aace05
+etc/acdbdata/QRD/QRD_Handset_cal.acdb|9abc069c70b9719f6052562d4231d6f1f1bdc311
+etc/acdbdata/QRD/QRD_Hdmi_cal.acdb|4a0452220ef26113f263925943d4ca9930ae9b01
+etc/acdbdata/QRD/QRD_Headset_cal.acdb|03f4611741788fdb4b0171c28587cfabe54096b9
+etc/acdbdata/QRD/QRD_Speaker_cal.acdb|55605a8458d9c20a36af3632cd233e77f71ab58f
 etc/acdbdata/QRD_E5S/QRD_Bluetooth_cal.acdb
 etc/acdbdata/QRD_E5S/QRD_General_cal.acdb
 etc/acdbdata/QRD_E5S/QRD_Global_cal.acdb
@@ -27,20 +27,20 @@ etc/acdbdata/QRD_E5S/QRD_Headset_cal.acdb
 etc/acdbdata/QRD_E5S/QRD_Speaker_cal.acdb
 
 # Audio libraries
-vendor/lib/soundfx/libqcbassboost.so
-vendor/lib/soundfx/libqcreverb.so
-vendor/lib/soundfx/libqcvirt.so
-vendor/lib/libacdb-fts.so
-vendor/lib/libacdbloader.so
-vendor/lib/libacdbrtac.so
-vendor/lib/libadiertac.so
-vendor/lib/libaudcal.so
-vendor/lib/libFlacSwDec.so
+vendor/lib/soundfx/libqcbassboost.so|a5c187209d73a40bb6f41b8c2a943fb8435f19e6
+vendor/lib/soundfx/libqcreverb.so|9e6ae0c7952d52f3d62904b9a5d468a8c057bdd0
+vendor/lib/soundfx/libqcvirt.so|7edc86f132911366f8f702a121b4417abc63e2f5
+vendor/lib/libacdb-fts.so|3e386ef8b043ec633fcf81337faf0c11f48699d3
+vendor/lib/libacdbloader.so|8a210cb5779b00e0821230133ccc700cda494797
+vendor/lib/libacdbrtac.so|d1a3a57ac114093eea4a62e18acb1f8e135f5713
+vendor/lib/libadiertac.so|0ca15e2877a3c421902682e085613ca97ef49758
+vendor/lib/libaudcal.so|c3c292c54a3552a323284e24d106419d7a3ab969
+vendor/lib/libFlacSwDec.so|86e6b7d392f11b75a45daebfd86be5dc515f1bca
 
 # Bluetooth
-bin/btnvtool
-bin/hci_qcomm_init
-vendor/lib/libbtnv.so
+bin/btnvtool|2a4c82f5c5f93a4a74c093ef97bb276755c69a25
+bin/hci_qcomm_init|f2918f30f1956bb4ef5725b550588e8bf001da07
+vendor/lib/libbtnv.so|62f39d265f94ffa00d77550d035929d171591557
 
 # Camera
 bin/mm-qcamera-daemon
@@ -121,139 +121,139 @@ etc/firmware/cpp_firmware_v1_2_0.fw
 etc/firmware/cpp_firmware_v1_4_0.fw
 
 # Color convertor
-vendor/lib/libI420colorconvert.so
-vendor/lib/libmm-color-convertor.so
+vendor/lib/libI420colorconvert.so|8f8555c4e0f4a27f1c1d3ec9140a454f14cc26b4
+vendor/lib/libmm-color-convertor.so|84f84fdcf4a752fc8781771f94870286745b534d
 
 # DRM
-bin/qseecomd
-vendor/lib/mediadrm/libwvdrmengine.so
-vendor/lib/libdrmfs.so
-vendor/lib/libdrmtime.so
-vendor/lib/libQSEEComAPI.so
-vendor/lib/librpmb.so
-vendor/lib/libssd.so
+bin/qseecomd|482b5a159b8c14856190c5382be47e3b43ce29be
+vendor/lib/mediadrm/libwvdrmengine.so|f51949313fff0e76ce95e4056fdd2fc92f3deebd
+vendor/lib/libdrmfs.so|95cdd867daba8a1081aada69555dc59ed70d33bf
+vendor/lib/libdrmtime.so|aa163e8f1eb4c1481beb0c112bac5b84536e69a9
+vendor/lib/libQSEEComAPI.so|3800f60b979389b888cd47c534af490b2c15bf5b
+vendor/lib/librpmb.so|4c4049354a0c5703463e9208401e23120466fce8
+vendor/lib/libssd.so|815a823d7cae093b85d5dcacb8e30c84caf2c285
 
 # GPS
--lib/libloc_api_v02.so|0aeb6f06d1c99b906444c3a992f57bbdf47828a6
-vendor/lib/hw/flp.default.so
-vendor/lib/libflp.so
-vendor/lib/libgeofence.so
-vendor/lib/libizat_core.so
-vendor/lib/liblbs_core.so|b94e9be40f9c815b9588830f91f1dc206a4593c3
+-lib/libloc_api_v02.so|fe0e24af98896c6c69d0827a7c802ca55715a2bc
+vendor/lib/hw/flp.default.so|0d3e2963aa808ea2ce5b424bc6c78d3d34d39111
+vendor/lib/libflp.so|7d1dbe05763f1e4bfd455465b4048ba17fb2d606
+vendor/lib/libgeofence.so|339e60c7c9f9283620c4aa7d834f0a3cc0871579
+vendor/lib/libizat_core.so|fe78aaf9e4fce817d24cd02e184aa6210f3641bf
+vendor/lib/liblbs_core.so|1fd0b9c9659f2ea1a509b8e666e3b768d5ad3936
 
 # Graphics
-vendor/lib/egl/eglsubAndroid.so
-vendor/lib/egl/eglSubDriverAndroid.so
-vendor/lib/egl/libEGL_adreno.so
-vendor/lib/egl/libESXEGL_adreno.so
-vendor/lib/egl/libESXGLESv1_CM_adreno.so
-vendor/lib/egl/libESXGLESv2_adreno.so
-vendor/lib/egl/libGLESv1_CM_adreno.so
-vendor/lib/egl/libGLESv2_adreno.so
-vendor/lib/egl/libq3dtools_adreno.so
-vendor/lib/egl/libQTapGLES.so
-vendor/lib/egl/libRBEGL_adreno.so
-vendor/lib/egl/libRBGLESv1_CM_adreno.so
-vendor/lib/egl/libRBGLESv2_adreno.so
-vendor/lib/libadreno_utils.so
-vendor/lib/libC2D2.so
-vendor/lib/libc2d30-a3xx.so
-vendor/lib/libCB.so
-vendor/lib/libgsl.so
-vendor/lib/libllvm-glnext.so
-vendor/lib/libllvm-qcom.so
-vendor/lib/libOpenCL.so
-vendor/lib/librs_adreno.so
-vendor/lib/librs_adreno_sha1.so
-vendor/lib/libRSDriver_adreno.so
-vendor/lib/libsc-a2xx.so
-vendor/lib/libsc-a3xx.so
-vendor/lib/libscale.so
+vendor/lib/egl/eglsubAndroid.so|c25e8038c8f475aaf964bfe9ced1400ac81397bb
+vendor/lib/egl/eglSubDriverAndroid.so|0331bafd1d7fdb3dae517cf63981f990b3604701
+vendor/lib/egl/libEGL_adreno.so|cfd56d8550fa5558ab8e44a54537c940345580c3
+vendor/lib/egl/libESXEGL_adreno.so|facfab179b35fc01160da5b0cca1ca74c11a9c21
+vendor/lib/egl/libESXGLESv1_CM_adreno.so|db241d7f12c5a3bdc2d8c75add4ed740b8d1d335
+vendor/lib/egl/libESXGLESv2_adreno.so|845a7e08f6db923b84061c4cefbeec0f87f055bd
+vendor/lib/egl/libGLESv1_CM_adreno.so|c3ee8a4861ac907eb892aba54c6672eb05500ed5
+vendor/lib/egl/libGLESv2_adreno.so|7cd477d4722920e2b4848aa4d5c54e0ad9ecc65a
+vendor/lib/egl/libq3dtools_adreno.so|a38ac8d88dcd087b55137bf1549c95e31da695a3
+vendor/lib/egl/libQTapGLES.so|7596611d1ca94d9ac80f54b6956a3586bbbd2cf3
+vendor/lib/egl/libRBEGL_adreno.so|277348d2f3cea2ff8ea9121892e9a88cbbc1ef62
+vendor/lib/egl/libRBGLESv1_CM_adreno.so|118087dfbada31e95c3d12f2903a9b06d06e60bf
+vendor/lib/egl/libRBGLESv2_adreno.so|4840376a639fb6295669340dbb22feebeba6f9b9
+vendor/lib/libadreno_utils.so|5e08564566cc29f6730a0ca3ecc950a4417d26f1
+vendor/lib/libC2D2.so|eb55372ad7b1b89f78d96fd77bd82c6e467c7df0
+vendor/lib/libc2d30-a3xx.so|371d6688b6140a2974da005a8f149a964884d0e3
+vendor/lib/libCB.so|6d88152c00b1351efd90f105bee0f5325497db42
+vendor/lib/libgsl.so|ff5a663c7c6559c9ffa0e7ba3f4e68401f51861c
+vendor/lib/libllvm-glnext.so|49895d26c9b9b01cc8365fd2f05ff730d58b0f6f
+vendor/lib/libllvm-qcom.so|43b1069252f3abfff2049f51daf4902ba2492769
+vendor/lib/libOpenCL.so|e1f8c3fdb58fa9fbb1465d909e9ab7ba31176bd6
+vendor/lib/librs_adreno.so|3687f82dd8cac1409a49574eaf894d955736db36
+vendor/lib/librs_adreno_sha1.so|5f90835afb0e58f385e5bdb2e79e047746441ff5
+vendor/lib/libRSDriver_adreno.so|779045a7351ded8affb6c5110d8a7b9101fb624a
+vendor/lib/libsc-a2xx.so|2e493cfec16e07fbbcc9d46d6696f9c9173ef2f7
+vendor/lib/libsc-a3xx.so|ca6067fe27259874f834409327e6daaf7702bceb
+vendor/lib/libscale.so|4e7752b6c12e4ff3ab7ae89c53a0b3ad9809f5ec
 
 # Graphics firmware
-etc/firmware/a300_pfp.fw
-etc/firmware/a300_pm4.fw
+etc/firmware/a300_pfp.fw|899dbfad4812084971cfc1ff30f06a4b45c2d34c
+etc/firmware/a300_pm4.fw|94529206b45b6e9f6ed30dadabe4244a88a60975
 
 # Media
-vendor/lib/libOmxAacDec.so
-vendor/lib/libOmxEvrcDec.so
-vendor/lib/libOmxQcelp13Dec.so
+vendor/lib/libOmxAacDec.so|b248d0d610ef140981b106ff3ea1e3f9276b0f14
+vendor/lib/libOmxEvrcDec.so|5b66c693409cdba1bdc815df3fffa9f7eb855e94
+vendor/lib/libOmxQcelp13Dec.so|a6d4ca6739f9bad357580bc5e9935b474286d31c
 
 # Media firmware
-etc/firmware/venus.b00
-etc/firmware/venus.b01
-etc/firmware/venus.b02
-etc/firmware/venus.b03
-etc/firmware/venus.b04
-etc/firmware/venus.mbn
-etc/firmware/venus.mdt
+etc/firmware/venus.b00|65c5f8806ad0a726291880a38b58354e131a4e31
+etc/firmware/venus.b01|d342e643e16d8edb099bbe7f626b2fce93b13cce
+etc/firmware/venus.b02|5d629dcf4a2fa8a280d722a063d1f0fe3836180a
+etc/firmware/venus.b03|3508682924e75f4825988f71a907bf47f97e563c
+etc/firmware/venus.b04|c1756e0567d10a1173f481cd367ff4637b2dd77f
+etc/firmware/venus.mbn|c360da2b60be16034bbe4a9a7f772d40d5418a36
+etc/firmware/venus.mdt|67510df6f17bafb10c677597212051b7e5cf21ef
 
 # Perf
-vendor/bin/perfd
-vendor/lib/libqti-perfd-client.so
+vendor/bin/perfd|73f66585aacfd146379ecd4da2830cb5bee4f113
+vendor/lib/libqti-perfd-client.so|c7f541d316b81dd9a5c05f9203a4c9d3cc551071
 
 # Postprocessing
-bin/mm-pp-daemon
-vendor/lib/libdisp-aba.so
-vendor/lib/libmm-abl.so
-vendor/lib/libmm-abl-oem.so
-vendor/lib/libmm-als.so
-vendor/lib/libmm-disp-apis.so
-vendor/lib/libmm-qdcm.so
+bin/mm-pp-daemon|0884c96eec68eeda3207840816d4bb92d19f2910
+vendor/lib/libdisp-aba.so|40095671f51da90d77c677a69df9d6c2dcccc153
+vendor/lib/libmm-abl.so|4b281bc994a750e90353494711fc940122149ae9
+vendor/lib/libmm-abl-oem.so|d12b34049341b9f6b6e85182ecfcdfc7a220f3a0
+vendor/lib/libmm-als.so|2f9e1eca3697285046ddc0a7dd2fe33fdede4440
+vendor/lib/libmm-disp-apis.so|09ac2b3ded476a1d5aa4d95adeab0a3fb69e4c49
+vendor/lib/libmm-qdcm.so|9ee17961708fa1f1cdfa5734d8dd5228191fc99c
 
 # QMI
-bin/irsc_util
-vendor/lib/libdiag.so
-vendor/lib/libdsutils.so
-vendor/lib/libidl.so
-vendor/lib/libperipheral_client.so
-vendor/lib/libqcci_legacy.so
-vendor/lib/libqdi.so
-vendor/lib/libqdp.so
-vendor/lib/libqmi.so
-vendor/lib/libqmi_cci.so
-vendor/lib/libqmi_client_helper.so
-vendor/lib/libqmi_client_qmux.so
-vendor/lib/libqmi_common_so.so
-vendor/lib/libqmi_csi.so
-vendor/lib/libqmi_encdec.so
-vendor/lib/libqmiservices.so
+bin/irsc_util|810367b6c4c3824e8c981dd2868914c2802d4f25
+vendor/lib/libdiag.so|3f3d017cd0595d7dd90fc69c0b088c25d857a52d
+vendor/lib/libdsutils.so|a2b0728fccc5f10487034d14fef76a322ecc65c7
+vendor/lib/libidl.so|eadf4f3f7d25ec642cc457d4f6d16912682b0508
+vendor/lib/libperipheral_client.so|c3e2a35e86ebc7f0190bc300ccc2d4893618ba72
+vendor/lib/libqcci_legacy.so|8bb66e7eeb6ba4d0e1ab422935af534509a92e92
+vendor/lib/libqdi.so|baf949188df0faeadfa1afd3d2286b9cce4f2036
+vendor/lib/libqdp.so|f171c88e4e701509eaee8f4d60c985d321f3fc9e
+vendor/lib/libqmi.so|3c6945dff79f0223dee651f310743125228e739b
+vendor/lib/libqmi_cci.so|62f80238c8c93b31e64a438fe5c36aaef437d8a6
+vendor/lib/libqmi_client_helper.so|e3dbbec389006ba90a2f4ae1e0e364c7f90cee47
+vendor/lib/libqmi_client_qmux.so|2a7073bfa79304eb7fd03ee4ba4f177a8adac12e
+vendor/lib/libqmi_common_so.so|1f38f77da048d51297091bb9f4ccac7462edaf91
+vendor/lib/libqmi_csi.so|33209f612e4744d5eb39a38d9b9663c524f41647
+vendor/lib/libqmi_encdec.so|cab1c426bd8673f5e98f847cb0a95adc5d2978f4
+vendor/lib/libqmiservices.so|878c98a3ddae6cc525c1c3e25df55acdcfcb34bes
 
 # Radio
-bin/netmgrd
-bin/qmuxd
-bin/radish
-bin/rmt_storage
-vendor/lib/libcneapiclient.so
-vendor/lib/libconfigdb.so
-vendor/lib/libdsi_netctrl.so
-vendor/lib/liblqe.so
-vendor/lib/libmdmdetect.so
-vendor/lib/libnetmgr.so
-vendor/lib/libril-qc-ltedirectdisc.so
-vendor/lib/libril-qc-qmi-1.so
-vendor/lib/libril-qc-radioconfig.so
-vendor/lib/libril-qcril-hook-oem.so
-vendor/lib/librilqmiservices.so
-vendor/lib/libsettings.so
-vendor/lib/libsmemlog.so
-vendor/lib/libsystem_health_mon.so
-vendor/lib/libxml.so
+bin/netmgrd|cf75e95384f6539b3eb161e7b46edda2754be640
+bin/qmuxd|e64a318fa7243e63b786fa2282073f369c7690ec
+bin/radish|ea3a3cc3cb9b7e14382e54c47b38b1d5aed2e6d5
+bin/rmt_storage|964e4cc78d3dc5da1f0f8810fd389f853716a8f8
+vendor/lib/libcneapiclient.so|3fd5ce64080a7bb9758593b95a6672e2b37b6f94
+vendor/lib/libconfigdb.so|17100c7eb29846f162f1a9bcd7454aa8b380252d
+vendor/lib/libdsi_netctrl.so|9fb83c83a1586ca7182276f613aabccc470c9b27
+vendor/lib/liblqe.so|2a5f5db0d988d9b84c8cd64cb9dd903bdc99bf2a
+vendor/lib/libmdmdetect.so|76bd5eec07fc89efd2985a0efeea24d0ba8588bf
+vendor/lib/libnetmgr.so|4b4724f19f0dbaca6bbe943941e96270d44aea78
+vendor/lib/libril-qc-ltedirectdisc.so|4de7cb9b7d42f88fa1613f7cde24b0b482ad1a97
+vendor/lib/libril-qc-qmi-1.so|a7bde2f86bc45cd3b696ef6fbfaf8d038c63b095
+vendor/lib/libril-qc-radioconfig.so|0387acc27cd7cd4d93e7ac54458e8fb804cb5103
+vendor/lib/libril-qcril-hook-oem.so|b29f3db34c7316da6787908cc31713efeb4e8b9e
+vendor/lib/librilqmiservices.so|3173b865967be84e0a4b33a12d4b182b887210c1
+vendor/lib/libsettings.so|d2ba6233833830bf9f20c062bbc772e0eecbed5b
+vendor/lib/libsmemlog.so|c632a70764ee1d6416ce1758f4d10cd6983d204d
+vendor/lib/libsystem_health_mon.so|cb6c840cb5a4af7060ad04935e80d826e151f352
+vendor/lib/libxml.so|74ac11f149c02a4a74a64217bb60d3ecfc8799e1
 
 # Sensors
-bin/sensord
-lib/hw/sensors.msm8916.so
+bin/sensord|769594bf09b42adb5b5323caed29c0f5c36f10ce
+lib/hw/sensors.msm8916.so|8122ec154cb07952927b58f54b4e21e5393ddf65
 
 # Thermal
-vendor/bin/thermal-engine
-vendor/lib/libthermalclient.so
-vendor/lib/libthermalioctl.so
+vendor/bin/thermal-engine|501b95c97c1ea9ee62b20ff15f1183af4547ce7f
+vendor/lib/libthermalclient.so|6c9bde1d2d2896b254ea412a256215cfc9e1640d
+vendor/lib/libthermalioctl.so|c6632096fa4f8dd311e24d07daddfd24b42b6917
 
 # Time services
--app/TimeService/TimeService.apk
-bin/time_daemon
--vendor/lib/libtime_genoff.so
-vendor/lib/libTimeService.so
+-app/TimeService/TimeService.apk|75a2a95e522ed2049303ace073fbe4e7b05a02d1
+bin/time_daemon|eba6a96ad539924ac2daa95b5219af59e1dcb876
+-vendor/lib/libtime_genoff.so|a11a3e573a82ef9f5de3ec437cd6d45eadd0bea8
+vendor/lib/libTimeService.so|08bc8f4acfcf59f577434ddbaadbea22f8db2ca8
 
 # WLAN
-bin/wcnss_service
+bin/wcnss_service|3757d7029727944fb0cbd031d3eb081a8ae6a574
