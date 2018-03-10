@@ -38,9 +38,9 @@ vendor/lib/libaudcal.so|c3c292c54a3552a323284e24d106419d7a3ab969
 vendor/lib/libFlacSwDec.so|86e6b7d392f11b75a45daebfd86be5dc515f1bca
 
 # Bluetooth
-bin/btnvtool|2a4c82f5c5f93a4a74c093ef97bb276755c69a25
-bin/hci_qcomm_init|f2918f30f1956bb4ef5725b550588e8bf001da07
-vendor/lib/libbtnv.so|62f39d265f94ffa00d77550d035929d171591557
+bin/btnvtool
+bin/hci_qcomm_init
+vendor/lib/libbtnv.so
 
 # Camera
 bin/mm-qcamera-daemon
