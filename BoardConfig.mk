@@ -46,7 +46,7 @@ BOARD_SEPOLICY_DIRS += device/bq/vegetalte/sepolicy
 TARGET_TAP_TO_WAKE_NODE := "/proc/gesture_open"
 
 # Wifi
-WIFI_DRIVER_MODULE_PATH := "/system/lib/modules/wlan.ko"
+WIFI_DRIVER_MODULE_PATH := "/vendor/lib/modules/wlan.ko"
 WIFI_DRIVER_MODULE_NAME := "wlan"
 
 # Inherit from the proprietary version
